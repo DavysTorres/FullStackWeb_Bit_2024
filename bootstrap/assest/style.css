@@ -1,0 +1,52 @@
+.var-top{
+    background: url("../images/banner.webp");
+    background-size: cover;
+}
+
+.controlled{
+    width: 90px;
+    height: 90px;
+    padding: 10px;
+}
+
+.btn-close{
+    position: absolute;
+    left: 98%;
+    width: 2px;
+}
+
+.keyboard{
+    width: 90px;
+    height: 90px;
+    padding: 10px;
+}
+
+.mouse{
+    width: 90px;
+    height: 90px;
+    padding: 10px;
+}
+
+.botonResta{
+    width: 40px;
+    height: 38px;
+    font-size: 1rem;
+}
+
+.botonSuma{
+    width: 40px;
+    height: 38px;
+    font-size: 1rem;
+}
+
+.btnPay{
+    width: 100%;
+    margin-top: 10px;
+    color: #fff;
+    background-color: blueviolet;
+    border: none;
+}
+
+.fw-bold.mx-4 {
+    transform: translateY(10px);
+}
